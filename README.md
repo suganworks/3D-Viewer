@@ -65,7 +65,7 @@ git clone https://github.com/suganworks/3D-Viewer.git
 
 ## Author
 
-[Sugathan Sugan](https://github.com/suganworks)
+[Sugathan](https://github.com/suganworks)
 
 ---
 
