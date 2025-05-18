@@ -17,20 +17,20 @@ A simple Java Swing application to visualize 3D models including Cube, Pyramid, 
 
 ## Screenshots
 
-### Cube (Blue)
-![Cube Blue](images/cube-blue.png)
+<h3>Cube (Blue)</h3>
+<img src="images/cube-blue.png" alt="Cube Blue" width="400"/>
 
-### Cube (Red)
-![Cube Red](images/cube-red.png)
+<h3>Cube (Red)</h3>
+<img src="images/cube-red.png" alt="Cube Red" width="400"/>
 
-### Cube Wireframe
-![Cube Wireframe](images/cube-wireframe.png)
+<h3>Cube Wireframe</h3>
+<img src="images/cube-wireframe.png" alt="Cube Wireframe" width="400"/>
 
-### Pyramid
-![Pyramid](images/pyramid.png)
+<h3>Pyramid</h3>
+<img src="images/pyramid.png" alt="Pyramid" width="400"/>
 
-### Sphere
-![Sphere](images/sphere.png)
+<h3>Sphere</h3>
+<img src="images/sphere.png" alt="Sphere" width="400"/>
 
 ---
 
