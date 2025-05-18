@@ -65,10 +65,10 @@ git clone https://github.com/suganworks/3D-Viewer.git
 
 ## Author
 
-[Sugathan](https://github.com/suganworks)
+[Suganthan](https://github.com/suganworks)
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/suganworks/3D-Viewer?tab=MIT-1-ov-file#) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
